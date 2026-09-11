@@ -1,0 +1,12 @@
+{
+  "pipeline": "groq_cloud",
+  "model": "llama-3.3-70b-versatile",
+  "num_reviews": 50,
+  "total_seconds": 0.006880998611450195,
+  "avg_seconds_per_review": 0.0001376199722290039,
+  "avg_input_tokens": 1031.38,
+  "avg_output_tokens": 108.32,
+  "total_input_tokens": 51569,
+  "total_output_tokens": 5416,
+  "note": "This run covers the first 50 of the full 200-review dataset, scoped down to stay within the Groq free-tier daily token limit (TPD). Figures below should be treated as a per-review average and extrapolated for full-scale cost estimates."
+}

@@ -1,0 +1,9 @@
+{
+  "pipeline": "ollama_local",
+  "model": "llama3.2",
+  "num_reviews": 200,
+  "total_seconds": 955.5288581848145,
+  "avg_seconds_per_review": 4.777644290924072,
+  "avg_output_tokens": 128.245,
+  "cost_usd": 0.0
+}
